@@ -5,7 +5,7 @@
 - 4 java集合  
 - 5 java多线程  
 - 6 java 虚拟机
-- 7 java虚拟机
+- 7 java内存模型
 - 8 spring IOC
 - 9 spring AOP  
 - 10 springboot启动过程
