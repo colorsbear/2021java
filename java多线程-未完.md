@@ -52,7 +52,7 @@ public class DemoClass{
 			interface RunnableFuture<V> extends Runnable,   Future<V>  */   
 			
 ```java
-public class ResultThread{
+public class ResultThread implements Callable<String>{
 	public String call(){
 	System.out.print(”正在执行线程任务");
 	Thread.sleep(1000);
